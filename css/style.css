@@ -15,6 +15,12 @@ body {
     overflow: hidden;
 }
 
+.p-head {
+    font-size: 18px;
+    color: hsl(0, 0%, 100%);
+    margin-bottom: -5px;
+}
+
 /* Header */
 
 header {
@@ -82,10 +88,10 @@ header nav ul li {
 
 #boxes {
     text-align: center;
+    color: hsl(0, 0%, 85%);
 }
 
 #boxes .container {
-    border: 1px solid red;
     display: grid;
     grid-template-columns: 350px 350px; 
     grid-template-rows: 300px 300px;
@@ -96,15 +102,12 @@ header nav ul li {
 
 #boxes div {
     width: 100%;
-    font-family: "Open Sans";
 }
  
 #boxes div#div-1, #boxes div#div-3 {
-    border: 1px solid orange;
     margin-left: 300px;
 }
 
 #boxes div#div-2, #boxes div#div-4 {
-    border: 1px solid purple;
     margin-left: 450px;
 }
