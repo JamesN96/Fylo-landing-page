@@ -8,7 +8,7 @@ body {
 /* Global */
 
 .container {
-    width: 80%;
+    width: 90%;
     margin: auto;
     overflow: hidden;
 }
@@ -16,7 +16,7 @@ body {
 /* Header */
 
 header {
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 header img {
@@ -26,4 +26,18 @@ header img {
 
 header nav {
     float: right;
+}
+
+/* NAV */
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 10px 0 0 0;
+}
+
+header nav ul li {
+    display: inline;
+    padding-left: 50px;
+    font-size: 16px;
 }
