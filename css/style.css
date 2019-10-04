@@ -12,3 +12,18 @@ body {
     margin: auto;
     overflow: hidden;
 }
+
+/* Header */
+
+header {
+    margin-top: 50px;
+}
+
+header img {
+    background-color: red;
+    float: left;
+}
+
+header nav {
+    float: right;
+}
