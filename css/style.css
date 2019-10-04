@@ -3,7 +3,8 @@ body {
     font-size: 14px;
     padding: 0;
     margin: 0;
-    background: hsl(218, 28%, 13%);
+    background: hsl(217, 28%, 15%);
+    color: hsl(0, 0%, 100%);
 }
 
 /* Global */
@@ -43,4 +44,19 @@ header nav ul li {
     font-family: "Raleway";
     font-size: 16px;
     color: hsl(0, 0%, 100%);
+}
+
+/* Main */
+
+#main {
+    text-align: center;
+    margin-top: 80px;
+}
+
+#main h1 {
+    width: 55%;
+    font-size: 40px;
+    font-family: "Raleway";
+    margin: 30px auto;
+    line-height: 1.6em;
 }
