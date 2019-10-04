@@ -60,3 +60,20 @@ header nav ul li {
     margin: 30px auto;
     line-height: 1.6em;
 }
+
+#main p {
+    width: 48%;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+#main button {
+    width: 22%;
+    height: 60px;
+    border: none;
+    border-radius: 30px;
+    background: hsl(198, 60%, 50%);
+    color: hsl(0, 0%, 100%);
+    font-size: 17px;
+    margin-top: 30px;
+}
