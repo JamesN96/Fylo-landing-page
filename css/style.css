@@ -120,6 +120,27 @@ header nav ul li {
 
 #productive img {
     float: left;
-    width: 50%;
-    margin-left: 10px;
+    width: 45%;
+    margin-left: 50px;
+}
+
+#productive h2 {
+    font-family: "Raleway";
+    font-size: 38px;
+    width: 30%;
+    float: right;
+    margin-right: 200px;
+    margin-top: 120px;
+    margin-bottom: -1px;
+    letter-spacing: 1px;
+}
+
+#productive p {
+    float: right;
+    width: 43%;
+    margin-right: 30px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    line-height: 27px;
+    color: hsl(0, 0%, 85%)
 }
