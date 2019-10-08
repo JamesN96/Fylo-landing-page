@@ -21,6 +21,12 @@ body {
     margin-bottom: -5px;
 }
 
+.comment {
+    width: 85%;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
 /* Header */
 
 header {
@@ -159,5 +165,10 @@ header nav ul li {
     justify-content: space-between;
     width: 80%;
     margin-top: 210px;
+    background: hsl(219, 30%, 18%);
 }
 
+#div-1, #div-2, #div-3 {
+    border: 1px solid green;
+
+}
