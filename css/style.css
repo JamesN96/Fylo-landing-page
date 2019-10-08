@@ -27,6 +27,10 @@ body {
     padding-top: 25px;
 }
 
+.author {
+    padding-left: 25px;
+}
+
 /* Header */
 
 header {
