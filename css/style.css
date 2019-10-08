@@ -168,6 +168,11 @@ header nav ul li {
     background: hsl(219, 30%, 18%);
 }
 
+#comments div.container img {
+    width: 7%;
+    border-radius: 50%;
+}
+
 #div-1, #div-2, #div-3 {
     border: 1px solid green;
 
