@@ -90,7 +90,7 @@ header nav ul li {
     text-align: center;
     color: hsl(0, 0%, 85%);
 }
-
+ 
 #boxes .container {
     display: grid;
     grid-template-columns: 350px 350px; 
@@ -110,4 +110,16 @@ header nav ul li {
 
 #boxes div#div-2, #boxes div#div-4 {
     margin-left: 450px;
+}
+
+/* Productive */
+
+#productive {
+    margin-top: 70px;
+}
+
+#productive img {
+    float: left;
+    width: 50%;
+    margin-left: 10px;
 }
