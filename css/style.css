@@ -144,3 +144,7 @@ header nav ul li {
     line-height: 27px;
     color: hsl(0, 0%, 85%)
 }
+
+#productive #p1 {
+    margin-bottom: -1px;
+}
