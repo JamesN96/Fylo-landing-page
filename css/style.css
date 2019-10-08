@@ -148,3 +148,16 @@ header nav ul li {
 #productive #p1 {
     margin-bottom: -1px;
 }
+
+/* Comments */
+
+#comments div.container {
+    border: 1px solid red;
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    grid-template-rows: 200px;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 210px;
+}
+
