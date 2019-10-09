@@ -181,3 +181,12 @@ header nav ul li {
     border: 1px solid green;
 
 }
+
+/* Overlap */
+
+#overlap {
+    border: 1px solid red;
+    width: 50%;
+    height: 270px;
+    text-align: center;
+}
