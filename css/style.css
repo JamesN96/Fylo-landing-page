@@ -207,6 +207,10 @@ header nav ul li {
     margin-right: 20px;
 }
 
+#overlap input::-webkit-input-placeholder {
+    padding-left: 40px;
+}
+
 #overlap button {
     height: 45px;
     width: 26%;
