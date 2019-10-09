@@ -186,7 +186,7 @@ header nav ul li {
 
 #overlap {
     border: 1px solid red;
-    width: 50%;
+    width: 60%;
     height: 270px;
     text-align: center;
 }
@@ -199,9 +199,19 @@ header nav ul li {
 }
 
 #overlap input {
-    width: 75%;
+    width: 61%;
     border-radius: 30px;
     border: none;
     height: 40px;
     margin-top: 25px;
+    margin-right: 20px;
+}
+
+#overlap button {
+    height: 45px;
+    width: 26%;
+    border: none;
+    border-radius: 30px;
+    background: hsl(198, 60%, 50%);
+    color: hsl(0, 0%, 85%);
 }
