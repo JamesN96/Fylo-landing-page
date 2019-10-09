@@ -197,3 +197,11 @@ header nav ul li {
     color: hsl(0, 0%, 85%);
     margin-top: 50px;
 }
+
+#overlap input {
+    width: 75%;
+    border-radius: 30px;
+    border: none;
+    height: 40px;
+    margin-top: 25px;
+}
