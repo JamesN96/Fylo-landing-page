@@ -230,7 +230,7 @@ header nav ul li {
 footer {
     border: 1px solid red;
     margin-top: 110px;
-    padding: 160px 30px;
+    padding: 160px 30px 120px 30px;
 }
 
 footer #footer-left {
@@ -267,11 +267,17 @@ footer #footer-right {
 #footer-right #ul-left {
     float: left;
     margin-left: -40px;
-    margin-top: 110px;
+    margin-top: 90px;
 }
 
-#ul-left ul {
+#ul-left ul, #ul-middle ul {
     list-style: none;
+    line-height: 40px;
+}
+
+#footer-right #ul-middle {
+    margin-top: 106px;
+    margin-left: 110px;
 }
 
 #footer-right #ul-right {
