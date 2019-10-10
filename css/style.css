@@ -281,6 +281,22 @@ footer #footer-right {
     margin-left: 110px;
 }
 
+/* Icons */
+
 #footer-right #ul-right {
     float: right;
+}
+
+#ul-right i {
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 8px;
+    position: relative;
+    bottom: 130px;
+    margin: 0 5px;
+}
+
+#ul-right i#facebook {
+    padding-left: 10px;
+    padding-right: 10px;
 }
