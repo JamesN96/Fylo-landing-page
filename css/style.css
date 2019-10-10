@@ -170,6 +170,7 @@ header nav ul li {
     width: 80%;
     margin-top: 210px;
     background: hsl(219, 30%, 18%);
+    margin-bottom: -10px;
 }
 
 #comments div.container img {
@@ -182,10 +183,15 @@ header nav ul li {
 
 }
 
+#quote {
+    position: relative;
+    left: 135px;
+    top: 222px;
+    z-index: -1;
+}
 /* Overlap */
 
 #overlap {
-    border: 1px solid red;
     width: 60%;
     height: 270px;
     text-align: center;
