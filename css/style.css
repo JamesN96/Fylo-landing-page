@@ -224,3 +224,16 @@ header nav ul li {
     background: hsl(198, 60%, 50%);
     color: hsl(0, 0%, 85%);
 }
+
+/* Footer */
+
+footer {
+    border: 1px solid red;
+    margin-top: 110px;
+    padding: 160px 30px;
+}
+
+footer #footer-left {
+    border: 1px solid orange;
+    float: left;
+}
