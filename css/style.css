@@ -255,6 +255,25 @@ footer #footer-left {
     margin-top: 60px;
 }
 
+/* Right Footer */
+
 footer #footer-right {
+    float: right;
+    border: 1px solid green;
+    width: 35%;
+    font-size: 16px;
+}
+
+#footer-right #ul-left {
+    float: left;
+    margin-left: -40px;
+    margin-top: 110px;
+}
+
+#ul-left ul {
+    list-style: none;
+}
+
+#footer-right #ul-right {
     float: right;
 }
