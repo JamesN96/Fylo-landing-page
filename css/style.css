@@ -183,7 +183,6 @@ header nav ul li {
     justify-content: space-between;
     width: 80%;
     margin-top: 210px;
-    background: hsl(219, 30%, 18%);
     margin-bottom: -10px;
 }
 
@@ -201,6 +200,7 @@ header nav ul li {
 }
 
 #div-1, #div-2, #div-3 {
+    background: hsl(219, 30%, 18%);
     padding-top: 10px;
 }
 
