@@ -128,6 +128,10 @@ header nav ul li {
 #boxes div {
     width: 100%;
 }
+
+#boxes #div-1, #boxes #div-2, #boxes #div-3 {
+    background: hsl(218, 28%, 13%);
+}
  
 #boxes div#div-1, #boxes div#div-3 {
     margin-left: 300px;
@@ -178,7 +182,6 @@ header nav ul li {
     color: hsl(176, 68%, 64%);
     border-bottom: 1px solid hsl(176, 68%, 64%); 
     text-decoration: none;
-    border: 1px solid red;
 }
 
 #productive img#arrow {
