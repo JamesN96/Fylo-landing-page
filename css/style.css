@@ -234,14 +234,12 @@ footer {
 }
 
 footer .container {
-    border: 1px solid purple;
     width: 100%;
 }
 
 /* Left footer */
 
 footer #footer-left {
-    border: 1px solid orange;
     float: left;
     width: 60%;
     margin-top: 50px;
@@ -251,7 +249,6 @@ footer #footer-left {
     float: left;
     width: 50%;
     font-size: 16px;
-    border: 1px solid yellow;
     margin-left: 85px;
     padding-top: 50px;
 }
@@ -267,10 +264,10 @@ footer #footer-left {
     width: 85%;
     margin-top: -24px;
     margin-right: 20px;
+    line-height: 25px;
 }
 
 #left div#icon {
-    border: 1px solid red;
     float: left;
     width: 5%;
     margin-top: 35px;
@@ -278,7 +275,6 @@ footer #footer-left {
 
 #footer-left #right {
     float: right;
-    border: 1px solid blue;
     width: 32%;
     margin-right: 50px;
     margin-top: 78px;
@@ -296,7 +292,6 @@ footer #footer-left {
 
 footer #footer-right {
     float: right;
-    border: 1px solid green;
     width: 35%;
     font-size: 16px;
     margin-right: 48px;
