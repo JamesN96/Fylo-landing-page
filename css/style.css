@@ -266,7 +266,7 @@ footer #footer-left {
     float: right;
     width: 85%;
     margin-top: -24px;
-    margin-right: 18px;
+    margin-right: 20px;
 }
 
 #left div#icon {
@@ -299,7 +299,8 @@ footer #footer-right {
     border: 1px solid green;
     width: 35%;
     font-size: 16px;
-    margin-right: 45px;
+    margin-right: 48px;
+    margin-top: 10px;
 }
 
 #footer-right #ul-left {
