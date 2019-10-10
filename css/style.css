@@ -31,6 +31,14 @@ body {
     padding-left: 25px;
 }
 
+.name {
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.position {
+    font-size: 6px;
+}
 /* Header */
 
 header {
