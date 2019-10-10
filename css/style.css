@@ -244,6 +244,7 @@ header nav ul li {
 #overlap div#access {
     position: absolute;
     box-sizing: border-box;
+    box-shadow: 4px 5px 10px 8px rgba(0, 0, 0, 0.265);
     border: 2px solid hsl(218, 33%, 18%);
     background: hsl(217, 28%, 15%);
     border-radius: 10px;
