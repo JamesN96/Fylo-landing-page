@@ -25,6 +25,7 @@ body {
     width: 85%;
     padding-left: 25px;
     padding-top: 25px;
+    padding-bottom: 10px;
 }
 
 .author {
@@ -176,7 +177,6 @@ header nav ul li {
 /* Comments */
 
 #comments div.container {
-    border: 1px solid red;
     display: grid;
     grid-template-columns: 350px 350px 350px;
     grid-template-rows: 200px;
@@ -192,9 +192,16 @@ header nav ul li {
     border-radius: 50%;
 }
 
-#div-1, #div-2, #div-3 {
-    border: 1px solid green;
+#comments span#bruce {
+    right: 74px;
+}
 
+#comments span#iva {
+    right: 38px;
+}
+
+#div-1, #div-2, #div-3 {
+    padding-top: 10px;
 }
 
 #quote {
