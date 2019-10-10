@@ -236,4 +236,24 @@ footer {
 footer #footer-left {
     border: 1px solid orange;
     float: left;
+    width: 60%;
+}
+
+#footer-left #left {
+    float: left;
+    width: 45%;
+    font-size: 16px;
+    border: 1px solid yellow;
+
+}
+
+#footer-left #right {
+    float: right;
+    border: 1px solid blue;
+    width: 30%;
+    margin-right: 100px;
+}
+
+footer #footer-right {
+    float: right;
 }
