@@ -242,7 +242,7 @@ header nav ul li {
 /* Footer */
 
 footer {
-    border: 1px solid red;
+    background: hsl(216, 53%, 9%);
     margin-top: 110px;
     padding: 150px 0px 70px 30px;
 }
