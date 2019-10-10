@@ -279,9 +279,17 @@ footer #footer-left {
 #footer-left #right {
     float: right;
     border: 1px solid blue;
-    width: 30%;
-    margin-right: 40px;
-    margin-top: 60px;
+    width: 32%;
+    margin-right: 50px;
+    margin-top: 78px;
+}
+
+#right img { 
+    padding-right: 27px
+}
+
+#right p {
+    margin-top: 5px;
 }
 
 /* Right Footer */
