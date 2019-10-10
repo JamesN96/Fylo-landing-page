@@ -191,6 +191,17 @@ header nav ul li {
     text-align: center;
 }
 
+#overlap div#access {
+    position: absolute;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    width: 60%;
+    height: 270px;
+    left: 50%;
+    margin-left: -30%;
+    margin-top: 220px;
+}
+
 #overlap h2 {
     font-family: "Raleway", sans-serif;
     font-size: 30px;
