@@ -538,4 +538,33 @@ footer #footer-right {
         z-index: -1;
     }
 
+    /* Overlap */
+
+    #overlap div#access {
+        width: 90%;
+        height: 370px;
+        left: 50%;
+        margin: 200px 0 0 -45%;
+    }
+
+    #overlap h2 {
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+
+    #overlap p {
+        width: 85%;
+    }
+
+    #overlap input, #overlap button {
+        width: 90%;
+    }
+
+    #overlap input {
+        margin: 40px auto 0px;
+    }
+
+    #overlap button {
+        margin: 20px auto 0px;
+    }
 }
