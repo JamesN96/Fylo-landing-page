@@ -404,6 +404,14 @@ footer #footer-right {
 
 @media(max-width: 375px) {
 
+    /* Remove Float */
+
+    #producive img, #productive h2, #productive p {
+        float: none;
+    }
+
+    /* Header */
+
     header {
         margin-top: 40px;
     }
@@ -461,4 +469,27 @@ footer #footer-right {
         margin: 0 auto;
     }
    
+    /* Productive */
+
+    #productive {
+        margin-top: 50px;
+    }
+
+    #productive img {
+        width: 95%;
+        float: none;
+        display: block;
+        margin: 0 auto;
+    }
+
+    #productive h2 {
+        margin: 60px auto 0;
+        width: 100%;
+        font-size: 18px;
+    }
+
+    #productive p {
+        width: 95%;
+        font-size: 14px;
+    }
 }
