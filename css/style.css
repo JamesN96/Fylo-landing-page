@@ -493,6 +493,11 @@ footer #footer-right {
         font-size: 14px;
     }
 
+    #productive img#arrow {
+        left: -25px;
+        top: -34px;
+    }
+
     /* Comments */
 
     #comments div.container {
