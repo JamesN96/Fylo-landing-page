@@ -399,3 +399,30 @@ footer #footer-right {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+/* Media Query */
+
+@media(max-width: 375px) {
+
+    header {
+        margin-top: 40px;
+    }
+    header img {
+        width: 30%;
+    }
+
+    header nav {
+        width: 60%;
+    }
+
+    header nav ul {
+        padding: 0px;
+        margin: 0 0 0 45px;
+    }
+    
+    header nav ul li {
+        font-size: 10px;
+        padding: 0 0 0 15px;
+        margin: 0px;
+    }
+}
