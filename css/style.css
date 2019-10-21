@@ -445,4 +445,20 @@ footer #footer-right {
     #main button {
         width: 80%;
     }
+
+    /* Boxes */
+
+    #boxes .container {
+        grid-template-columns: 380px; 
+        grid-template-rows: 300px 300px 300px 300px;
+        align-items: start;
+        margin: 160px 0 0 0;
+    }
+
+    #boxes div#div-1, #boxes div#div-2, #boxes div#div-3, #boxes div#div-4 {
+        margin-left: 0px;
+        width: 85%;
+        margin: 0 auto;
+    }
+   
 }
